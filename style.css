@@ -2,3 +2,7 @@
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url("img/paul-hanaoka-299941-unsplash.jpg");
   background-size: cover;
 }
+.card > img {
+  max-height: 12rem;
+  object-fit: cover;
+}
